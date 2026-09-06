@@ -7,7 +7,7 @@ This project is built using Cricsheet ball-by-ball data and features custom pars
 
 By: Nareshsarathy Sambath(7089589), Gauhar Ayub Khan(7076413)
 
-There are few data files which weren't be able to upload due to size truncating in GitHub. There are few data files missing in the data folder. And there another config file which is available, download the file and add it to a folder named .streamlit and you can run the file.
+There are few data files which we weren't able to upload due to size truncating in GitHub. There are few data files missing in the data folder.
 
 ---
 
